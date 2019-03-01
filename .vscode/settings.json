@@ -1,0 +1,9 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "cstdlib": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}
